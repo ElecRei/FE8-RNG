@@ -44,8 +44,8 @@
 | char42,  | 41            | Fado
 | char43,  | 42            | Lyon
 | char44,  | 43            | Pablo
-| char45,  | 44            | Klimt
-| char46,  | 45            | Dara
+| char45,  | 44            | **Klimt***
+| char46,  | 45            | **Dara***
 | char47,  | 46            | Carlyle
 | char48,  | 47            | Mansel
 | char49,  | 48            | Vigarde
