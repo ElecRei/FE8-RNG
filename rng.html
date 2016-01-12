@@ -1,0 +1,19 @@
+<button onclick="rng()">Click</button>
+
+<script>
+    
+var minimum = 1;
+
+var maximum = 64;
+    
+var randomnumber = Math.floor(Math.random() * (maximum - minimum + 1)) + minimum;
+    
+function rng() {
+    
+    var randomnumber = Math.floor(Math.random() * (maximum - minimum + 1)) + minimum;
+    
+    console.log(randomnumber);
+    
+};
+
+</script>

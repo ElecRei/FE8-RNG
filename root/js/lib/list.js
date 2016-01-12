@@ -1,3 +1,19 @@
+"<pre>"+
+    " "+
+    "var prd01 = { prdName:\"Tropical Palm \" + productType[0],"+
+                  "prdImage: \"IMAGE GOES HERE\","+
+                  "prdPrice: \"90 \" + currency,"+
+                  "prdCode: \"190952CZ\""+
+                "};"+
+    "</pre>"
+        );
+
+var char01 = { charName: "Eirika",
+               charImage: "IMAGE",
+               charClass: "Lord"
+             };
+
+
 // 50 Chars Total
 
 
